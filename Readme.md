@@ -4,3 +4,4 @@ The repository contains helper packages for gopher lua that are used in [Vikingo
 
 ### Packages
 - zlib
+- encoding
